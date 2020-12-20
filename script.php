@@ -1,4 +1,4 @@
-4<?php
+<?php
 
 $filename = "https://bc-v2.pressmatrix.com/pt-BR/profiles/c9e49eb97a66/editions/13e7845d8934afa67619/pages/toc";
 
